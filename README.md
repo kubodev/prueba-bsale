@@ -1,2 +1,2 @@
-# prueba-bsale
-Es una api en un base de datos de pruebas en mysql y un html, con boostrap y vanilla javascript.
+# api-bsale_test
+Objetivo Determinar si el candidato está en condiciones de interactuar con una base de datos a través de una aplicación web, implementando cliente y servidor. Ejercicio Construir una tienda online que despliegue productos agrupados por la categoría a la que pertenecen. Además, debes agregar un buscador, el cual tiene que estar implementado a nivel de servidor, es decir, los productos deben llegar filtrados al cliente. Opcionalmente, puedes implementar filtros por atributo, ordenar productos, paginación, etc. La aplicación de cliente tiene que estar desarrollada con vanilla javascript, sin ningún framework o librería. Finalmente, debes disponibilizar la aplicación de forma pública (de preferencia en Heroku) y el repositorio con el código.
